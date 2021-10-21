@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hb@222.197.167.197:5041" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="hb@222.197.167.197:5041">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hb/wuyanping/FAAN_GNN_V3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiqun">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hb/wuyanping/FAAN_GNN_V3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wuyanping@121.48.162.151:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wuyanping@121.48.165.117:6118">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hdd/1/wuyanping/FAAN_GNN_v2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wuyanping@121.48.165.117:6118 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

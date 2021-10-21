@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0214ce63-58c1-4bd5-8fca-de0dfc6ebba9" name="jiqun" url="http://222.197.167.197">
+        <fileTransfer accessType="SFTP" host="222.197.167.197" port="5041" sshConfigId="a35e1d6b-e7f0-429c-835f-23d41770ca69" sshConfig="hb@222.197.167.197:5041 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
